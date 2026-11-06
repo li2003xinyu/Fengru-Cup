@@ -5,4 +5,4 @@
 - `src/`：核心算法源码与特征工程脚本
 - `results/`：模型评估指标、图表与分析结果
 - `docs/`：相关交付文档与使用说明
-- requirements.txt
+- `requirements.txt`：项目运行环境依赖库及版本清单
